@@ -1,0 +1,2 @@
+# Trade-fast
+Hello Beginner
